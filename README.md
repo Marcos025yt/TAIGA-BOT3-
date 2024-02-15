@@ -7,7 +7,6 @@
 
 ## Linguagens e Ferramentas
 - 💻 **Linguagens:** JavaScript, HTML, CSS
-- 🚀 **Frameworks:** Flask, React
 - 🛢️ **Banco de Dados:** MongoDB
 - 🛠️ **Ferramentas:** Git, VSCode, Docker
 
