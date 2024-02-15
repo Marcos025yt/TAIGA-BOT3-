@@ -1,0 +1,50 @@
+💢 >COMANDOS BÁSICOS DO TERMUX<💢
+
+
+cole cada comando por vez e sempre da "y"
+
+
+ 1°     pkg upgrade -y && pkg update -y && pkg install git -y && pkg install nodejs -y && pkg install nodejs-lts -y
+
+
+
+2°     termux-setup-storage
+
+
+esses comando abaixo você vai escolher o terceiro ou o quarto para localizar aonde está a pasta, exemplo se você baixou pelo MediaFire você vai usar o quarto, já se você baixou está no arquivo principal você vai usar o terceiro!
+
+
+3°     cd /sdcard/TAIGA-BOT2
+
+
+4°     cd /sdcard/download/TAIGA-BOT2
+
+
+5°    pkg install ffmpeg -y && pkg install tesseract -y && pkg install python -y 
+
+
+
+6°   pkg install ffmpeg -y && pkg install wget -y
+
+
+
+
+ 7°  yarn
+ 
+ 
+ 8°  sh start.sh
+
+
+BOM VOCÊ PRECISA CRIAR SUA PRÓPRIA KEY PRA GARANTIA 100% DO TRANSCREVER, E TAMBÉM GPT
+
+CRIAR SUA QUE DO TRANSCREVER AQUI👇
+
+https://www.assemblyai.com/discover/?utm_source=google&utm_medium=cpc&utm_campaign=Brand&utm_term=assemblyai&gad_source=1&gclid=CjwKCAiA2pyuBhBKEiwApLaIOxFzzQ5oDWydGneD0_HTuiDNUeyM-a9DyyNlDFElwlmlKmBV7o4mXhoCeKUQAvD_BwE
+
+
+CRIAR SUA KEY DO GPT AQUI👇
+
+https://platform.openai.com/api-keys
+
+
+FEZ TUDO ISSO, AGORA E SÓ SER FELIZ
