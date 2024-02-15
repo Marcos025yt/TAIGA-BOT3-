@@ -11,14 +11,14 @@
 - 🛠️ **Ferramentas:** Git, VSCode, Docker
 
 ## Projetos Destacados
-- 🤖 **[TAIGA-BOT3](https://github.com/Marcos025yt/TAIGA-BOT3-):** Um bot multifuncional para Discord.
-- 📚 **[Meu Site Pessoal](https://marcos025yt.github.io):** Compartilhando conhecimento e experiências.
+- 🤖 **[TAIGA-BOT3](https://github.com/Marcos025yt/TAIGA-BOT3-):** Um bot multifuncional para Whatsapp.
+- 📚  Compartilhando conhecimento e experiências.
 
 ## Estatísticas GitHub
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Marcos025yt&show_icons=true&count_private=true&hide=contribs,prs&theme=dark)
 
 ## Entre em Contato
-- 📧 **Email:** ms45antonio123@gmail.com
+- 📧 **[Email](ms45antonio123@gmail.com)**
 - 🐦 **[Instagram](https://www.instagram.com/marcos.025yt?igsh=MzNlNGNkZWQ4Mg==)**
 - 💼 **[Site de Api](https://marcos025.onrender.com)**
 
