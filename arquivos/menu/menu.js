@@ -44,8 +44,6 @@ ${readmore}
 ├⪧ ${prefixo}playaudio [nome]
 ├⪧ ${prefixo}playvideo [nome]
 ├⪧ ${prefixo}musica [nome]
-├⪧ ${prefixo}play [nome]
-├⪧ ${prefixo}play2 [nome]
 ├⪧ ${prefixo}ytmp3 [link]
 ├⪧ ${prefixo}ytmp4 [link]
 ├⪧ ${prefixo}instagram [link]
