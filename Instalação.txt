@@ -14,10 +14,10 @@ cole cada comando por vez e sempre da "y"
 esses comando abaixo você vai escolher o terceiro ou o quarto para localizar aonde está a pasta, exemplo se você baixou pelo MediaFire você vai usar o quarto, já se você baixou está no arquivo principal você vai usar o terceiro!
 
 
-3°     cd /sdcard/TAIGA-BOT2
+3°     cd /sdcard/TAIGA-BOT3
 
 
-4°     cd /sdcard/download/TAIGA-BOT2
+4°     cd /sdcard/download/TAIGA-BOT3
 
 
 5°    pkg install ffmpeg -y && pkg install tesseract -y && pkg install python -y 

@@ -23,6 +23,7 @@ return `╭───「 ${nomebot} 」
 ╰─────── • 
 ${readmore}
 ╭───[ 𝗢𝘂𝘁𝗿𝗼𝘀 ]
+├⪧ ${prefixo}gemini [pergunta]
 ├⪧ ${prefixo}gpt [pergunta] 
 ├⪧ ${prefixo}dono
 ├⪧ ${prefixo}ia-img 
