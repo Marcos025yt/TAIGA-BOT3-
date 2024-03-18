@@ -25,6 +25,7 @@ ${readmore}
 ╭───[ 𝗢𝘂𝘁𝗿𝗼𝘀 ]
 ├⪧ ${prefixo}gemini [pergunta]
 ├⪧ ${prefixo}gpt [pergunta] 
+├⪧ ${prefixo}imagem
 ├⪧ ${prefixo}dono
 ├⪧ ${prefixo}ia-img 
 ├⪧ ${prefixo}gerarnick [texto]
@@ -41,16 +42,20 @@ ${readmore}
 ╰─────── • 
 
 ╭───[ 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱𝘀 ]
+├⪧ ${prefixo}play [nome/link]
+├⪧ ${prefixo}play2 [nome/link]
 ├⪧ ${prefixo}playaudio [nome]
 ├⪧ ${prefixo}playvideo [nome]
 ├⪧ ${prefixo}musica [nome]
+├⪧ ${prefixo}play [nome]
+├⪧ ${prefixo}play2 [nome]
 ├⪧ ${prefixo}ytmp3 [link]
 ├⪧ ${prefixo}ytmp4 [link]
 ├⪧ ${prefixo}instagram [link]
+├⪧ ${prefixo}tiktok [link]
+├⪧ ${prefixo}tiktok2 [link]
 ├⪧ ${prefixo}tiktokvideo [link]
 ├⪧ ${prefixo}tiktokaudio [link]
-├⪧ ${prefixo}ttkmp3 [link]
-├⪧ ${prefixo}ttkmp4 [link]
 ├⪧ ${prefixo}Mediafire {link}
 ╰─────── • 
 
